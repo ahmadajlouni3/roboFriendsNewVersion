@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/roboFriendsNewVersion/static/css/main.3ce102d3.css",
+    "main.js": "/roboFriendsNewVersion/static/js/main.59c6fdff.js",
+    "static/js/787.c2cff050.chunk.js": "/roboFriendsNewVersion/static/js/787.c2cff050.chunk.js",
+    "static/media/RubikDoodleShadow-Regular.woff": "/roboFriendsNewVersion/static/media/RubikDoodleShadow-Regular.5a08af58faa80b1d48fb.woff",
+    "index.html": "/roboFriendsNewVersion/index.html",
+    "main.3ce102d3.css.map": "/roboFriendsNewVersion/static/css/main.3ce102d3.css.map",
+    "main.59c6fdff.js.map": "/roboFriendsNewVersion/static/js/main.59c6fdff.js.map",
+    "787.c2cff050.chunk.js.map": "/roboFriendsNewVersion/static/js/787.c2cff050.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ce102d3.css",
+    "static/js/main.59c6fdff.js"
+  ]
+}
