@@ -3,42 +3,6 @@ import Search from '../components/searchBox';
 import CardList  from '../components/cardList';
 import './App.css';
 
-// class App extends Component{
-//     constructor(){
-//         super()
-//         this.state= {
-//             robots: [],
-//             searchField: ''
-//         }
-//     }
-
-//     componentDidMount(){
-//         fetch('https://jsonplaceholder.typicode.com/users')
-//         .then(res => res.json())
-//         .then(user => this.setState({ robots : user }))
-//     }
-
-//     onSearchChange = (event) => {
-//         this.setState({ searchField : event.target.value });
-//     }
-
-//     render() {
-//         const { robots , searchField } = this.state;
-//         const filtered = robots.filter(robot => {
-//             return robot.name.toLowerCase().includes(searchField.toLowerCase());
-//         })
-//         return !filtered ? 
-//         <h1>Loading</h1> : 
-//         (
-//             <div>
-//                 
-//             </div>
-//         )
-//     }
-// }
-
-
-
 const App = () =>{
     const [robots , setRobots] = useState([]);
     const [search , setSearch] = useState('');
